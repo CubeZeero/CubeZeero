@@ -1,7 +1,6 @@
-# i'm NOT a programmer
+## NOT a programmer
 
-my main job is as a video creator.
-
+my main job is as a designer.
 
 Please don't blame me if the code is crap. 
 
