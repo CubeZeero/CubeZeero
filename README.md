@@ -2,7 +2,9 @@
 
 my main job is as a designer.
 
-Please don't blame me if the code is crap. 
+please don't blame me if the code is crap. 
+
+**This is a hobby, so development will proceed irregularly.**
 
 ## Main Project
 
