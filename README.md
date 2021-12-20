@@ -6,6 +6,8 @@ please don't blame me if the code is crap.
 
 **This is a hobby, so development will proceed irregularly.**
 
+許してね
+
 ## Main Project
 
 _**Tweetron**_
