@@ -1,11 +1,9 @@
 ## NOT a programmer
 
-my main job is as a designer.
-
-please don't blame me if the code is crap. 
+my main job is designer.
+ please don't blame me if the code is crap. 
 
 **This is a hobby, so development will proceed irregularly.**
-
 許してね
 
 ## Main Project
