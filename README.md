@@ -12,4 +12,4 @@ _**Tweetron**_
 
 Tweet stream in OBS browser source
 
-[https://github.com/CubeZeero/Tweetron](https://github.com/CubeZeero/Tweetron)
+[https://github.com/Tweetron/Tweetron](https://github.com/Tweetron/Tweetron)
