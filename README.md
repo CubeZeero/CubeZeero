@@ -6,6 +6,10 @@ my main job is designer.
 **This is a hobby, so development will proceed irregularly.**
 許してね
 
+<br>
+
+主にPython、たまにJavascript
+
 ## Main Project
 
 _**Tweetron**_
