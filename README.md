@@ -17,3 +17,9 @@ _**Tweetron**_
 Tweet stream in OBS browser source
 
 [https://github.com/Tweetron/Tweetron](https://github.com/Tweetron/Tweetron)
+
+_**Mincar**_
+
+Mincar is CoverArt database for Doujin Music
+
+[https://github.com/CubeZeero/Mincar](https://github.com/CubeZeero/Mincar)
