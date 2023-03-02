@@ -10,6 +10,10 @@ my main job is designer.
 
 主にPython、たまにJavascript
 
+After Effects 用スクリプト集
+
+[https://github.com/CubeZeero/AE_Scripts](https://github.com/CubeZeero/AE_Scripts)
+
 ## Main Project
 
 _**Tweetron**_
