@@ -8,7 +8,7 @@ my main job is designer.
 
 <br>
 
-主にPython、たまにJavascript
+Mainly Python, occasionally JavaScript. Lately I've been cracking the whip on AI.
 
 After Effects 用スクリプト集
 
